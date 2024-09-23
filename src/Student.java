@@ -11,7 +11,7 @@ public class Student {
 	public int ID;
 
 	/**
-	 * ID randomizer.
+	 * ID randomizer, future use.
 	 * @see Random
 	 */
 	public Student(){
@@ -79,6 +79,7 @@ public class Student {
 	public void setFourthBimonthly(double fourthBimonthly) {
 		this.fourthBimonthly = fourthBimonthly;
 	}
+
 }
 
 
